@@ -4,7 +4,6 @@ using UnityEngine;
 
 public class TestScript : MonoBehaviour
 {
-    //Initial project files commit
     // Start is called before the first frame update
     void Start()
     {
